@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kickstarter Explorer</string>
+    <string name="project_name">The Whatamagump (a hand-crafted story picture book)</string>
+    <string name="pleadge">Pleadge - $6859</string>
+    <string name="backers">Backers - 154926</string>
+    <string name="noOfDaysToGo">No. Of Days To Go - 18</string>
+    <string name="details">Project Information</string>
+    <string name="by">By: Tyrone Wells Broken Eagle, LLC</string>
+    <string name="blurb"><![CDATA[\'A unique handmade picture book for kids & art lovers about a nervous monster who finds his courage with the help of a brave little girl.]]></string>
+    <string name="backers_label">Number of Backers :&#160;</string>
+    <string name="location_label">Location: </string>
+    <string name="country_label">Country: </string>
+    <string name="pledged_amount">Pleadge Amount: $</string>
+    <string name="percentage_funded">Percentage Funded: </string>
+    <string name="noOfDaysToGoLabel">End Time:&#160;</string>
+    <string name="read_more">PROJECT WEB PAGE</string>
+    <string name="bkara">bkara</string>
+    <string name="filter">FILTER</string>
+    <string name="sort">Always</string>
+    <string name="sync_account_type">com.bkara.poilabs</string>
+    <string name="search">SEARCH</string>
+</resources>
