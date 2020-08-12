@@ -1,4 +1,4 @@
-# PoiLabsKickstarterAndroidApp
+# KickstarterAndroidApp
 
 
  
